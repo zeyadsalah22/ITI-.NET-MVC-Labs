@@ -1,0 +1,105 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Lenovo\\OneDrive - Egypt Japan University Of Science and Technology (E-JUST)\\Desktop\\Career\\ITI\\ASP.NET Core MVC\\ITI-.NET-MVC-Labs\\ITILAB\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{ABAE2A16-5246-487C-BC3B-6D0F5AB23F30}|ITILAB\\ITILAB.csproj|c:\\users\\lenovo\\onedrive - egypt japan university of science and technology (e-just)\\desktop\\career\\iti\\asp.net core mvc\\iti-.net-mvc-labs\\itilab\\itilab\\views\\instructors\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{ABAE2A16-5246-487C-BC3B-6D0F5AB23F30}|ITILAB\\ITILAB.csproj|solutionrelative:itilab\\views\\instructors\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ABAE2A16-5246-487C-BC3B-6D0F5AB23F30}|ITILAB\\ITILAB.csproj|c:\\users\\lenovo\\onedrive - egypt japan university of science and technology (e-just)\\desktop\\career\\iti\\asp.net core mvc\\iti-.net-mvc-labs\\itilab\\itilab\\views\\instructors\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{ABAE2A16-5246-487C-BC3B-6D0F5AB23F30}|ITILAB\\ITILAB.csproj|solutionrelative:itilab\\views\\instructors\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ABAE2A16-5246-487C-BC3B-6D0F5AB23F30}|ITILAB\\ITILAB.csproj|c:\\users\\lenovo\\onedrive - egypt japan university of science and technology (e-just)\\desktop\\career\\iti\\asp.net core mvc\\iti-.net-mvc-labs\\itilab\\itilab\\controllers\\instructorscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ABAE2A16-5246-487C-BC3B-6D0F5AB23F30}|ITILAB\\ITILAB.csproj|solutionrelative:itilab\\controllers\\instructorscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ABAE2A16-5246-487C-BC3B-6D0F5AB23F30}|ITILAB\\ITILAB.csproj|c:\\users\\lenovo\\onedrive - egypt japan university of science and technology (e-just)\\desktop\\career\\iti\\asp.net core mvc\\iti-.net-mvc-labs\\itilab\\itilab\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{ABAE2A16-5246-487C-BC3B-6D0F5AB23F30}|ITILAB\\ITILAB.csproj|solutionrelative:itilab\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ABAE2A16-5246-487C-BC3B-6D0F5AB23F30}|ITILAB\\ITILAB.csproj|c:\\users\\lenovo\\onedrive - egypt japan university of science and technology (e-just)\\desktop\\career\\iti\\asp.net core mvc\\iti-.net-mvc-labs\\itilab\\itilab\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ABAE2A16-5246-487C-BC3B-6D0F5AB23F30}|ITILAB\\ITILAB.csproj|solutionrelative:itilab\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Details.cshtml",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\OneDrive - Egypt Japan University Of Science and Technology (E-JUST)\\Desktop\\Career\\ITI\\ASP.NET Core MVC\\ITI-.NET-MVC-Labs\\ITILAB\\ITILAB\\Views\\Instructors\\Details.cshtml",
+              "RelativeDocumentMoniker": "ITILAB\\Views\\Instructors\\Details.cshtml",
+              "ToolTip": "C:\\Users\\Lenovo\\OneDrive - Egypt Japan University Of Science and Technology (E-JUST)\\Desktop\\Career\\ITI\\ASP.NET Core MVC\\ITI-.NET-MVC-Labs\\ITILAB\\ITILAB\\Views\\Instructors\\Details.cshtml",
+              "RelativeToolTip": "ITILAB\\Views\\Instructors\\Details.cshtml",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAAAoAAAAKAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-10T19:41:08.244Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\OneDrive - Egypt Japan University Of Science and Technology (E-JUST)\\Desktop\\Career\\ITI\\ASP.NET Core MVC\\ITI-.NET-MVC-Labs\\ITILAB\\ITILAB\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "ITILAB\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\Lenovo\\OneDrive - Egypt Japan University Of Science and Technology (E-JUST)\\Desktop\\Career\\ITI\\ASP.NET Core MVC\\ITI-.NET-MVC-Labs\\ITILAB\\ITILAB\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "ITILAB\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAAABkAAABhAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-10T19:35:15.958Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\OneDrive - Egypt Japan University Of Science and Technology (E-JUST)\\Desktop\\Career\\ITI\\ASP.NET Core MVC\\ITI-.NET-MVC-Labs\\ITILAB\\ITILAB\\Views\\Instructors\\Index.cshtml",
+              "RelativeDocumentMoniker": "ITILAB\\Views\\Instructors\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Lenovo\\OneDrive - Egypt Japan University Of Science and Technology (E-JUST)\\Desktop\\Career\\ITI\\ASP.NET Core MVC\\ITI-.NET-MVC-Labs\\ITILAB\\ITILAB\\Views\\Instructors\\Index.cshtml",
+              "RelativeToolTip": "ITILAB\\Views\\Instructors\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-10T19:34:39.699Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "InstructorsController.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\OneDrive - Egypt Japan University Of Science and Technology (E-JUST)\\Desktop\\Career\\ITI\\ASP.NET Core MVC\\ITI-.NET-MVC-Labs\\ITILAB\\ITILAB\\Controllers\\InstructorsController.cs",
+              "RelativeDocumentMoniker": "ITILAB\\Controllers\\InstructorsController.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\OneDrive - Egypt Japan University Of Science and Technology (E-JUST)\\Desktop\\Career\\ITI\\ASP.NET Core MVC\\ITI-.NET-MVC-Labs\\ITILAB\\ITILAB\\Controllers\\InstructorsController.cs",
+              "RelativeToolTip": "ITILAB\\Controllers\\InstructorsController.cs",
+              "ViewState": "AQIAAFkAAAAAAAAAAAAswBcAAAAZAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-10T19:34:00.995Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\OneDrive - Egypt Japan University Of Science and Technology (E-JUST)\\Desktop\\Career\\ITI\\ASP.NET Core MVC\\ITI-.NET-MVC-Labs\\ITILAB\\ITILAB\\Program.cs",
+              "RelativeDocumentMoniker": "ITILAB\\Program.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\OneDrive - Egypt Japan University Of Science and Technology (E-JUST)\\Desktop\\Career\\ITI\\ASP.NET Core MVC\\ITI-.NET-MVC-Labs\\ITILAB\\ITILAB\\Program.cs",
+              "RelativeToolTip": "ITILAB\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-10T18:48:13.105Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
